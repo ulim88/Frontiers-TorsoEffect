@@ -1,7 +1,9 @@
 # Frontiers_TorsoEffect
 
 We identify the effect of torso information on gait phase estimation using long short-term memory (LSTM).
+
 The details of the proposed idea are described in the manuscript, "Effect of Torso Kinematics on Gait Phase Estimation for Enhancing Speed Adaptability."
+
 This repository mainly contains two contents: (1) dataset and (2) Frontiers_gait_estimation.py.
 
 (1) dataset

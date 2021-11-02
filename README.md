@@ -5,6 +5,7 @@ The details of the proposed idea are described in the manuscript, "Effect of Tor
 This repository mainly contains two contents: (1) dataset and (2) Frontiers_gait_estimation.py.
 
 (1) dataset
+
 This contains the processed data of 50 subjects in 5 different walking speeds: C1-C5.
 Each csv file is named as 'Combined_20XXXXX_YY_ZZ.csv.'
 20XXXXX refers to the subject id, and YY refers to the walking speed, while ZZ refers to the number of trials.
@@ -20,4 +21,5 @@ In each dataset, 11 columns are contained.
     - TorsoVelocity: calculated torso angular velocity
     
 (2) Frontiers_gait_estimation.py
+
 This is the main code for training the given dataset using the proposed networks.
